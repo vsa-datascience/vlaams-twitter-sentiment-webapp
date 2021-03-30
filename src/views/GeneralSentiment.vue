@@ -148,7 +148,7 @@ export default {
   },
   data() {
     return {
-      url: 'https://sentiment-flanders.radix.sh',
+      url: 'https://sentiment-flanders.cloudar.be',
       total: 0,
       positive: 0,
       neutral: 0,
