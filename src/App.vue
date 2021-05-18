@@ -32,7 +32,7 @@
               alt="Statistiek Vlaanderen Logo"
               class="shrink mr-2"
               contain
-              src="https://sentiment-flanders.cloudar.be/logo.png"
+              src="https://twittersentiment.statistiekvlaanderen.be/logo.png"
               transition="scale-transition"
               width="140"
             />

@@ -188,7 +188,7 @@ export default {
   },
   data() {
     return {
-      url: 'https://sentiment-flanders.cloudar.be',
+      url: 'https://twittersentiment.statistiekvlaanderen.be',
       total: 0,
       positive: 0,
       use_positive: true,
